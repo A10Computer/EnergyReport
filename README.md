@@ -1,6 +1,6 @@
 # Battery and Energy Report 1.5
 
-Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit PowerShell und WPF.
+Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit PowerShell und WPF, hauptächlich für Laptos entwickelt.
 
 ## Features
 
