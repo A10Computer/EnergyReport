@@ -26,6 +26,8 @@ Alle Reports werden gespeichert unter:
 C:\Temp\EnergyReports
 
 
-Download enthält: BatEnergy.exe - Adminstratorrechte sind erforderlich! 
+## .zip Download enthält: 
+BatEnergy.exe - Adminstratorrechte sind erforderlich! 
+
 
 Nutzung des Tools auf eigene Gefahr! 
