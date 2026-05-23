@@ -1,3 +1,13 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
+![WPF](https://img.shields.io/badge/UI-WPF-purple)
+![Status](https://img.shields.io/badge/status-active-success)
+![Use at own risk](https://img.shields.io/badge/use-own%20risk-red)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Windows 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6)
+
 # Battery and Energy Report 1.5
 
 Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit PowerShell und WPF, hauptächlich für Laptops entwickelt.
