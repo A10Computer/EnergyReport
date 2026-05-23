@@ -8,7 +8,7 @@
 
 # Battery and Energy Report 1.5
 
-Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit PowerShell und WPF, hauptächlich für Laptops entwickelt.
+Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit PowerShell und WPF, hauptsächlich für Laptops entwickelt.
 
 ## Features
 
@@ -35,7 +35,7 @@ C:\Temp\EnergyReports
 
 
 ## .zip Download enthält: 
-BatEnergy.exe - Adminstratorrechte sind erforderlich! 
+BatEnergy.exe - Administratorrechte sind erforderlich! 
 
 
 Nutzung des Tools auf eigene Gefahr! 
