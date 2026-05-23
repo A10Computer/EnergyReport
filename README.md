@@ -21,7 +21,11 @@ Modernes Windows Diagnose-Tool für Akku-, Energie- und Sleep-Analysen mit Power
 - Windows PowerCFG
 - CIM / WMI
 
-
 Alle Reports werden gespeichert unter:
 
 C:\Temp\EnergyReports
+
+
+Download enthält: BatEnergy.exe - Adminstratorrechte sind erforderlich! 
+
+Nutzung des Tools auf eigene Gefahr! 
