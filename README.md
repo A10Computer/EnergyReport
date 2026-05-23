@@ -5,8 +5,8 @@
 ![Use at own risk](https://img.shields.io/badge/use-own%20risk-red)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![Windows 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6)
-![GitHub stars](https://img.shields.io/github/stars/A10Computer/[REPO](https://github.com/A10Computer/EnergyReport)?style=social)
-![GitHub forks](https://img.shields.io/github/forks/A10Computer/[REPO](https://github.com/A10Computer/EnergyReport)?style=social)
+![GitHub stars](https://img.shields.io/github/stars/A10Computer/EnergyReport?style=social)
+![GitHub forks](https://img.shields.io/github/forks/A10Computer/EnergyReport?style=social)
 
 # Battery and Energy Report 1.5
 
