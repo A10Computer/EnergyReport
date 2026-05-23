@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Use at own risk](https://img.shields.io/badge/use-own%20risk-red)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
 ![Windows 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6)
 
 # Battery and Energy Report 1.5
