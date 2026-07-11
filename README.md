@@ -35,7 +35,7 @@ C:\Temp\EnergyReports
 
 
 ## .zip Download enthält: 
-BatEnergy.exe - Administratorrechte sind erforderlich! 
+BatteryReport.exe - Administratorrechte sind erforderlich! 
 
 
 Nutzung des Tools auf eigene Gefahr! 
